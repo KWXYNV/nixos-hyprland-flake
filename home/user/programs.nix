@@ -3,7 +3,7 @@
   programs.firefox = {
     enable = true;
 
-    profiles.gpskwlkr = {
+    profiles.spy = {
         extensions = with inputs.firefox-addons.packages."x86_64-linux"; [
             bypass-paywalls-clean
             darkreader
