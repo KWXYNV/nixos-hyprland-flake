@@ -5,8 +5,8 @@
     ./user
   ];
   
-  home.username = "gpskwlkr";
-  home.homeDirectory = "/home/gpskwlkr";
+  home.username = "spy";
+  home.homeDirectory = "/home/spy";
   home.stateVersion = "23.11";
 }
 
