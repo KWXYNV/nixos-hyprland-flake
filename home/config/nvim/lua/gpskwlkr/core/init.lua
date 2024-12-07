@@ -1,2 +1,2 @@
-require("gpskwlkr.core.options")
-require("gpskwlkr.core.keymaps")
+require("spy.core.options")
+require("spy.core.keymaps")
